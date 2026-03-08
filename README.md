@@ -26,7 +26,7 @@
 **Impact:** A consolidated Power BI analysis of historical hourly load data across multiple regions to uncover demand patterns, enabling data-driven optimization of power generation schedules and significantly improved forecasting accuracy.
 
 [Live Dashboard/Summary](https://app.powerbi.com/groups/me/reports/e54fe741-a8e0-4098-a58e-940a202e785f/51b27dfd5548cee20188?experience=power-bi)
-[View the Code]()
+[View the Code](https://github.com/raygee642-bit/Electricity-Demand-Load-Pattern-Analysis)
 
    
 
