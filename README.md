@@ -9,8 +9,11 @@
 # Featured Projects
 
 ## 1. Superstore Sales Performance & Profitability Optimization
+
 **The problem:** The Superstore faces a core challenge of unstable growth characterized by a low 73.45% customer retention rate, extreme seasonal sales volatility, and a high frequency of negative-margin orders that frequently dip into significant losses.
+
 **The Tools Used:** Python, Microsoft Excel, Google Colab
+
 **The Impact:** Provides an actionable roadmap to stabilize growth by identifying the 73.45% retention rate to justify new loyalty initiatives, mapping predictable Q4 seasonal spikes for proactive inventory management, and isolating negative-margin orders and dead inventory—such as the Hewlett-Packard Deskjet 5550—to enable a strategic reinvestment into the high-performing Technology category.
 
 [View_the_Code] (https://github.com/raygee642-bit/Superstore-Sales-Performance-Profitability-Optimization)
