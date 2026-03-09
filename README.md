@@ -8,7 +8,7 @@
       <a href="mailto:ayobamiadelusi28@gmail.com">Email Me</a>
     </td>
     <td align="right" valign="middle" width="180">
-      <img src="WhatsApp Image 2026-03-09 at 11.20.06 PM.jpeg" 
+      <img src="WhatsApp Image 2026-03-09 at 11.38.50 PM.jpeg" 
            alt="Profile Picture" 
            width="150" 
            height="150" 
