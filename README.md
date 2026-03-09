@@ -53,6 +53,7 @@
 
 # Let's Connect
 I am currently open to Data Analyst roles, I would like to chat about data, tech.
+
 [Send me an email](ayobamiadelusi28@gmail.com) to get in touch.
 
 
