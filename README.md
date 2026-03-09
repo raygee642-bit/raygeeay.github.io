@@ -8,7 +8,7 @@
       <a href="mailto:ayobamiadelusi28@gmail.com">Email Me</a>
     </td>
     <td align="right" valign="middle" width="180">
-      <img src="ppicture.jepg" 
+      <img src="ppicture.jpeg" 
            alt="Profile Picture" 
            width="180" 
            height="180" 
