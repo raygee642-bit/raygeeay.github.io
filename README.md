@@ -10,8 +10,8 @@
     <td align="right" valign="middle" width="180">
       <img src="ppicture.jpeg" 
            alt="Profile Picture" 
-           width="130" 
-           height="130" 
+           width="180" 
+           height="180" 
            style="border-radius: 50%; object-fit: cover;">
       <br>
       <strong>Racheal Adelusi</strong>
