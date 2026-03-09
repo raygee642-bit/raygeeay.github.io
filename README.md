@@ -60,3 +60,17 @@
 I am currently open to Data Analyst roles, I would like to chat about data, tech.
 
 [📧 Send me an email](mailto:ayobamiadelusi28@gmail.com) to get in touch.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+```
+
+---
+
+**So your README structure should look like this:**
+```
+LINE 1  → 🌊 Top wave banner         ← ADD HERE FIRST
+LINE 2  → your table (photo + title)
+...
+...
+LINE X  → 🤝 Let's Connect section
+LINE X  → 🌊 Bottom wave banner      ← ADD HERE LAST
