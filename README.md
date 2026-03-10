@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td valign="middle">
-      <h2>📊 Data Analyst | Transforming Revenue and Consumption Data into Strategic Insights</h2>
+      <h1>📊 Data Analyst | Transforming Revenue and Consumption Data into Strategic Insights</h1>
       <a href="https://www.linkedin.com/in/racheal-ayobami-adelusi-65040421a">My LinkedIn</a> | 
       <a href="https://drive.google.com/file/d/1kxMdzscTR8AdhU4ssBkatSyQ6jYKPhV4/view?usp=drive_link">View My Resume</a> | 
       <a href="mailto:ayobamiadelusi28@gmail.com">Email Me</a>
